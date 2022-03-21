@@ -1,1 +1,1 @@
-<script src="www.steinbmarcsi.github.io.com/FamilyTree.js"></script>
+<script src="www.steinbmarcsi.github.io.com/familytree.js"></script>
