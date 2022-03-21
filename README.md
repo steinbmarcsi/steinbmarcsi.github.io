@@ -1,5 +1,4 @@
-<script src="steinbmarcsi.github.io/FamilyTree.js"></script>
-
+<script src="steinbmarcsi.github.io/familytree.js"></script>
 <div style="width:100%; height:700px;" id="tree"/>
 
     <script>
