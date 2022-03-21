@@ -1,2 +1,2 @@
 # steinbmarcsi.github.io
-<script src="steinbmarcsi.github.io/FamilyTree.js"></script>
+<script src="www.steinbmarcsi.github.io.com/FamilyTree.js"></script>
